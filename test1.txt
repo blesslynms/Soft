@@ -1,0 +1,31 @@
+ls
+ls al
+touch file
+touch -f file
+rm file
+rm -f file
+chmod --
+cp file file2
+mv file file2
+mkdir
+mkdir dir
+grep -fil
+whoiam
+ctl v
+ct link 
+chown file 
+
+
+-------------------------------------------------------------------------------------------
+
+git config --global user.name "name"
+git config --global email.name "email"
+
+git merge 
+git link
+git branch
+git multi branch
+git push
+git git create
+git commit
+
